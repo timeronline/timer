@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "Онлайн-будильник" },
+    { "path": "/timer", "title": "Онлайн-таймер" },
+    { "path": "/sekundomer", "title": "Секундомер" },
+    { "path": "/time", "title": "Точное время" },
+    { "path": "/prazdniki", "title": "Календарь праздников" }
+  ]
+}
